@@ -1,0 +1,39 @@
+body{
+ margin: 0;
+ text-align: center;
+ font-family: 'Merriweather Sans', sans-serif;
+
+}
+.top{
+  background-color: #E4F9F5;
+  margin: 0;
+
+  padding-top: 100px;
+  position: relative;
+}
+
+h1{
+  margin-block-start: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.cloud1{
+position: absolute;
+right: 300px;
+top: 50px;
+}
+.skill{
+  height: 200px;
+}
+.vaibhav{
+  height: 200px;
+  border: 4px solid powderblue;
+ border-radius: 40px;
+}
